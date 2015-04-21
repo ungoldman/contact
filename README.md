@@ -1,4 +1,4 @@
-# contact
+# Contact
 
 How to contact Nate Goldman, in order of preference.
 
