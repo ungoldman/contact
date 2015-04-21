@@ -1,6 +1,6 @@
 # contact
 
-How to contact me *(in order of preference)*
+How to contact Nate Goldman, in order of preference.
 
 #### 1. Make an [issue][message-url]
 
@@ -24,7 +24,7 @@ You can talk to me on twitter by tweeting at [`@ungoldman`](http://twitter.com/u
 
 [![tweet][email-img]][email-url]
 
-**Fair warning:** email is my least favorite form of communication. I get a lot of it and it often takes a while before I will respond to it. There is also an exponential correlation between email length and response time (the longer the email, the longer the response time). Please only email me if you have to.
+**Fair warning:** email is my least favorite form of communication. I get a lot of it and it often takes a while before I can respond. The longer the email, the longer it will take for me to answer it. Please only email me if you have to.
 
 [email-img]: http://img.shields.io/badge/new-email-orange.svg?style=flat-square
 [email-url]: mailto:contact%20at%20ngoldman%20dot%20me
