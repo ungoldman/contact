@@ -26,7 +26,7 @@ You can talk to me on twitter by tweeting at [@ungoldman](http://twitter.com/ung
 
 [![irc][irc-img]][irc-url]
 
-I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=codeforportland), and [#codeforportland](http://webchat.freenode.net/?channels=codeforportland). It may take a long time for me to respond as I'm not always actually there (I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)) to stay on IRC indefinitely).
+I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#codeforportland](http://webchat.freenode.net/?channels=codeforportland). It may take a long time for me to respond as I'm not always actually there (I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)) to stay on IRC indefinitely).
 
 [irc-img]: http://img.shields.io/badge/join-freenode-yellow.svg?style=flat-square
 [irc-url]: http://webchat.freenode.net/?channels=codeforportland
