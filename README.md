@@ -46,5 +46,8 @@ I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#
 
 **Contact** (1997), starring Jodie Foster and Matthew McConaughey, is a pretty good movie. It's based on a book by [Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan), who was a pretty neat guy. Watching it is not a reliable method for contacting me but I still recommend it if you get a chance.
 
-[contact-img]: http://ia.media-imdb.com/images/M/MV5BMjEyMDQxMTMxMF5BMl5BanBnXkFtZTcwNTU0ODcyMg@@._V1_SX640_SY720_.jpg
+[![contact][contact-poster]][contact-url]
+
+[contact-img]: http://img.shields.io/badge/watch-contact-red.svg?style=flat-square
+[contact-poster]: http://ia.media-imdb.com/images/M/MV5BMjEyMDQxMTMxMF5BMl5BanBnXkFtZTcwNTU0ODcyMg@@._V1_SX640_SY720_.jpg
 [contact-url]: http://www.imdb.com/title/tt0118884/
