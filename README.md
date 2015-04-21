@@ -1,6 +1,6 @@
 # Contact
 
-How to contact Nate Goldman, in order of preference.
+How to contact Nate Goldman on the internet, in order of preference.
 
 #### 1. Make an [issue][message-url]
 
