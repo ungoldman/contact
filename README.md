@@ -26,10 +26,10 @@ You can also send me a **private message** using PGP encryption. This is relativ
 
 [![irc][irc-img]][irc-url]
 
-I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#codeforportland](http://webchat.freenode.net/?channels=codeforportland). It may not always respond right away as I'm not always actually there (I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)) to stay on IRC indefinitely).
+I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#openpdx](http://webchat.freenode.net/?channels=openpdx). Please note that I may not always respond right away as I'm not always actually there (I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)) to stay on IRC and log messages indefinitely). The best way to get my attention is to mention me by name or send me a private message.
 
 [irc-img]: http://img.shields.io/badge/join-freenode-yellow.svg?style=flat-square
-[irc-url]: http://webchat.freenode.net/?channels=codeforportland
+[irc-url]: http://webchat.freenode.net/?channels=pdxtech
 
 #### 4. Burden me with [email][email-url]
 
