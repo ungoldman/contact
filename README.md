@@ -35,7 +35,7 @@ I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#
 
 [![tweet][email-img]][email-url]
 
-**Fair warning:** I get a lot of it and it often takes a while before I can respond. The longer the email, the longer it will take for me to answer it. Please keep emails short and to the point, and only email me if you really need to.
+**Fair warning:** I get a lot of emails and it often takes a while before I can respond. The longer the email, the longer it will take for me to answer it. Please keep emails short and to the point, and only email me if you really need to.
 
 [email-img]: http://img.shields.io/badge/compose-email-orange.svg?style=flat-square
 [email-url]: mailto:contact%20at%20ngoldman%20dot%20me
