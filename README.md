@@ -2,7 +2,16 @@
 
 How to contact Nate Goldman on the internet, in order of preference.
 
-#### 1. Make an [issue][message-url]
+#### 1. Send me a [tweet][tweet-url]
+
+[![tweet][tweet-img]][tweet-url]
+
+You can talk to me on twitter by sending a tweet or DM to [@ungoldman](http://twitter.com/ungoldman).
+
+[tweet-img]: http://img.shields.io/badge/send-tweet-brightgreen.svg?style=flat-square
+[tweet-url]: https://twitter.com/intent/tweet?text=@ungoldman%20
+
+#### 2. Make an [issue][message-url]
 
 [![message][message-img]][message-url]
 
@@ -10,23 +19,14 @@ You can start a conversation by creating an issue in this repository's [issue tr
 
 You can also send me a **private message** using PGP encryption. This is relatively easy using [keybase](https://keybase.io/). My keybase username is [ngoldman](https://keybase.io/ngoldman).
 
-[message-img]: http://img.shields.io/badge/create-issue-brightgreen.svg?style=flat-square
+[message-img]: http://img.shields.io/badge/create-issue-green.svg?style=flat-square
 [message-url]: ../../issues/new
-
-#### 2. Send me a [tweet][tweet-url]
-
-[![tweet][tweet-img]][tweet-url]
-
-You can talk to me on twitter by tweeting at [@ungoldman](http://twitter.com/ungoldman).
-
-[tweet-img]: http://img.shields.io/badge/send-tweet-green.svg?style=flat-square
-[tweet-url]: https://twitter.com/intent/tweet?text=@ungoldman%20
 
 #### 3. Chat with me on [IRC][irc-url]
 
 [![irc][irc-img]][irc-url]
 
-I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#codeforportland](http://webchat.freenode.net/?channels=codeforportland). It may take a long time for me to respond as I'm not always actually there (I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)) to stay on IRC indefinitely).
+I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#codeforportland](http://webchat.freenode.net/?channels=codeforportland). It may not always respond right away as I'm not always actually there (I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)) to stay on IRC indefinitely).
 
 [irc-img]: http://img.shields.io/badge/join-freenode-yellow.svg?style=flat-square
 [irc-url]: http://webchat.freenode.net/?channels=codeforportland
@@ -35,7 +35,7 @@ I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#
 
 [![tweet][email-img]][email-url]
 
-**Fair warning:** email is my least favorite form of communication. I get a lot of it and it often takes a while before I can respond. The longer the email, the longer it will take for me to answer it. Please only email me if you really need to.
+**Fair warning:** I get a lot of it and it often takes a while before I can respond. The longer the email, the longer it will take for me to answer it. Please keep emails short and to the point, and only email me if you really need to.
 
 [email-img]: http://img.shields.io/badge/compose-email-orange.svg?style=flat-square
 [email-url]: mailto:contact%20at%20ngoldman%20dot%20me
