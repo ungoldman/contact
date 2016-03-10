@@ -37,7 +37,7 @@ I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#
 
 Please keep emails short and to the point, and only email me if you really need to.
 
-[email-img]: http://img.shields.io/badge/compose-email-yellow.svg?style=flat-square
+[email-img]: http://img.shields.io/badge/compose-email-red.svg?style=flat-square
 [email-url]: mailto:ungoldman@gmail.com
 
 #### 5. Watch [Contact][contact-url]
@@ -48,7 +48,7 @@ Please keep emails short and to the point, and only email me if you really need 
 
 [![contact][contact-poster]][contact-imdb]
 
-[contact-img]: http://img.shields.io/badge/watch-contact-red.svg?style=flat-square
+[contact-img]: http://img.shields.io/badge/watch-contact-blue.svg?style=flat-square
 [contact-url]: https://www.youtube.com/watch?v=d9C2cF3KvP8
 [contact-poster]: http://ia.media-imdb.com/images/M/MV5BMjEyMDQxMTMxMF5BMl5BanBnXkFtZTcwNTU0ODcyMg@@._V1_SX640_SY720_.jpg
 [contact-imdb]: http://www.imdb.com/title/tt0118884/
