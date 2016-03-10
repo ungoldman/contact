@@ -1,12 +1,12 @@
 # Contact
 
-How to contact Nate Goldman on the internet, in order of preference.
+*How to contact Nate Goldman on the internet.*
 
 #### 1. Send me a [tweet][tweet-url]
 
 [![tweet][tweet-img]][tweet-url]
 
-You can talk to me on twitter by sending a tweet or DM to [@ungoldman](http://twitter.com/ungoldman).
+You can talk to me on twitter by sending a tweet or DM to [`@ungoldman`](http://twitter.com/ungoldman).
 
 [tweet-img]: http://img.shields.io/badge/send-tweet-brightgreen.svg?style=flat-square
 [tweet-url]: https://twitter.com/intent/tweet?text=@ungoldman%20
@@ -15,30 +15,30 @@ You can talk to me on twitter by sending a tweet or DM to [@ungoldman](http://tw
 
 [![message][message-img]][message-url]
 
-You can start a conversation by creating an issue in this repository's [issue tracker](../../issues).
+You can start a conversation by creating a [github issue][message-url].
 
-You can also send me a **private message** using PGP encryption. This is relatively easy using [keybase](https://keybase.io/). My keybase username is [ngoldman](https://keybase.io/ngoldman).
+You can also send me a **private message** using PGP encryption. This is relatively easy using [keybase](https://keybase.io/). My keybase username is [`ngoldman`](https://keybase.io/ngoldman).
 
 [message-img]: http://img.shields.io/badge/create-issue-green.svg?style=flat-square
-[message-url]: ../../issues/new
+[message-url]: https://github.com/ngoldman/contact/issues/new
 
 #### 3. Chat with me on [IRC][irc-url]
 
 [![irc][irc-img]][irc-url]
 
-I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#openpdx](http://webchat.freenode.net/?channels=openpdx). Please note that I may not always respond right away as I'm not always actually there (I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)) to stay on IRC and log messages indefinitely). The best way to get my attention is to mention me by name or send me a private message.
+I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#openpdx](http://webchat.freenode.net/?channels=openpdx). I may not respond right away as I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)).
 
-[irc-img]: http://img.shields.io/badge/join-freenode-yellow.svg?style=flat-square
+[irc-img]: http://img.shields.io/badge/join-freenode-yellowgreen.svg?style=flat-square
 [irc-url]: http://webchat.freenode.net/?channels=pdxtech
 
-#### 4. Burden me with [email][email-url]
+#### 4. Send me an [email][email-url]
 
 [![tweet][email-img]][email-url]
 
-**Fair warning:** I get a lot of emails and it often takes a while before I can respond. The longer the email, the longer it will take for me to answer it. Please keep emails short and to the point, and only email me if you really need to.
+Please keep emails short and to the point, and only email me if you really need to.
 
-[email-img]: http://img.shields.io/badge/compose-email-orange.svg?style=flat-square
-[email-url]: mailto:contact%20at%20ngoldman%20dot%20me
+[email-img]: http://img.shields.io/badge/compose-email-yellow.svg?style=flat-square
+[email-url]: mailto:ungoldman@gmail.com
 
 #### 5. Watch [Contact][contact-url]
 
