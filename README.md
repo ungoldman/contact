@@ -20,7 +20,7 @@ You can start a conversation by creating a [github issue][message-url].
 You can also send me a **private message** using PGP encryption. This is relatively easy using [keybase](https://keybase.io/). My keybase username is [`ngoldman`](https://keybase.io/ngoldman).
 
 [message-img]: http://img.shields.io/badge/create-issue-green.svg?style=flat-square
-[message-url]: https://github.com/ngoldman/contact/issues/new
+[message-url]: https://github.com/ungoldman/contact/issues/new
 
 #### 3. Chat with me on [IRC][irc-url]
 
