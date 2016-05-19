@@ -26,7 +26,7 @@ You can also send me a **private message** using PGP encryption. This is relativ
 
 [![irc][irc-img]][irc-url]
 
-I'm `ngoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#openpdx](http://webchat.freenode.net/?channels=openpdx). I may not respond right away as I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)).
+I'm `ungoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#openpdx](http://webchat.freenode.net/?channels=openpdx). I may not respond right away as I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)).
 
 [irc-img]: http://img.shields.io/badge/join-freenode-yellowgreen.svg?style=flat-square
 [irc-url]: http://webchat.freenode.net/?channels=pdxtech
