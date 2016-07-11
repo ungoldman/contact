@@ -2,7 +2,7 @@
 
 *How to contact Nate Goldman on the internet.*
 
-#### 1. Send me a [tweet][tweet-url]
+#### Send me a [tweet][tweet-url]
 
 [![tweet][tweet-img]][tweet-url]
 
@@ -11,7 +11,7 @@ You can talk to me on twitter by sending a tweet or DM to [`@ungoldman`](http://
 [tweet-img]: http://img.shields.io/badge/send-tweet-brightgreen.svg?style=flat-square
 [tweet-url]: https://twitter.com/intent/tweet?text=@ungoldman%20
 
-#### 2. Make an [issue][message-url]
+#### Make an [issue][message-url]
 
 [![message][message-img]][message-url]
 
@@ -22,16 +22,7 @@ You can also send me a **private message** using PGP encryption. This is relativ
 [message-img]: http://img.shields.io/badge/create-issue-green.svg?style=flat-square
 [message-url]: https://github.com/ungoldman/contact/issues/new
 
-#### 3. Chat with me on [IRC][irc-url]
-
-[![irc][irc-img]][irc-url]
-
-I'm `ungoldman` on [freenode IRC](https://freenode.net/). I'm almost always in [#pdxtech](http://webchat.freenode.net/?channels=pdxtech), [#pdxnode](http://webchat.freenode.net/?channels=pdxnode), and [#openpdx](http://webchat.freenode.net/?channels=openpdx). I may not respond right away as I use an [IRC bouncer](http://en.wikipedia.org/wiki/BNC_(software)).
-
-[irc-img]: http://img.shields.io/badge/join-freenode-yellowgreen.svg?style=flat-square
-[irc-url]: http://webchat.freenode.net/?channels=pdxtech
-
-#### 4. Send me an [email][email-url]
+#### Send me an [email][email-url]
 
 [![tweet][email-img]][email-url]
 
@@ -40,7 +31,7 @@ Please keep emails short and to the point, and only email me if you really need 
 [email-img]: http://img.shields.io/badge/compose-email-red.svg?style=flat-square
 [email-url]: mailto:ungoldman@gmail.com
 
-#### 5. Watch [Contact][contact-url]
+#### Watch [Contact][contact-url]
 
 [![contact][contact-img]][contact-url]
 
